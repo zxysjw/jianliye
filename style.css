@@ -1,0 +1,43 @@
+@charset "utf-8";
+.header  {
+    text-align: center;
+    margin-top: 10px;
+}
+.header span{
+    font-size: 30px;
+    color: blue;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.xiala{
+    width:100%;
+    height: 500px;
+}
+.xiala ul li{
+    line-height: 50px;
+    color: blue;
+    font-weight: bold;
+}
+.banner{
+    width: 100%;
+    height: 124px;
+    position: relative;
+    overflow: hidden;
+}
+.banner ul{
+    width: 200%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.banner li{
+    width: 50%;
+    float: left;
+}
+.banner li img{
+    width: 100%;
+}
+.banner span{
+    font-size: 20px;
+    color: #ffffff;
+}

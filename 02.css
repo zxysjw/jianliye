@@ -1,0 +1,204 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header  {
+    text-align: center;
+    margin-top: 10px;
+}
+.header span{
+    font-size: 30px;
+    color: blue;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.xiala{
+    width:100%;
+    height: 500px;
+}
+.xiala ul li{
+    line-height: 50px;
+    color: blue;
+    font-weight: bold;
+}
+.banner{
+    width: 100%;
+    height: 5rem;
+    position: relative;
+    overflow: hidden;
+}
+.banner ul{
+    width: 200%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.banner li{
+    width: 50%;
+    float: left;
+}
+.banner li img{
+    width: 100%;
+}
+.banner span{
+    font-size: 20px;
+    color: #ffffff;
+}
+.nav{
+    height: 2.775rem;
+    margin: .75rem auto;
+}
+.nav .nav1 img{
+    margin-left: .3rem;
+    margin-top: -.98rem;
+    width: 2.25rem;
+    height: 2.25rem;
+}
+.nav .nav1 p{
+    font-family: "微软雅黑";
+    font-size: .4rem ;
+    margin-left: .4rem; 
+}
+.nav .nav1{
+    height: 1.75rem;
+}
+.nav .nav1 span{
+    margin-left: .5rem;
+}
+.content1{
+    height: 3.025rem;
+}
+.content1 h1{
+    font-family: "微软雅黑";
+    font-size: .4rem ;
+    margin-left: .3rem;
+}
+.content1 p{
+    font-family: "微软雅黑";
+    font-size: .3rem;
+    margin-top: .425rem;
+    margin-left: .3rem;
+    color: #918F8F;
+}
+.content2 {
+    height: 1.675rem;
+}
+.content2 h2{
+    font-family: "微软雅黑";
+    font-size: .4rem ;
+    margin-left: .3rem;
+    margin-top: .625rem; 
+}
+.content2 p{
+    font-family: "微软雅黑";
+    font-size: .3rem;
+    margin-top: .425rem;
+    margin-left: .3rem;
+    color: #918F8F;
+}
+.di{
+   
+    height: 7.15rem;
+    background-color: brown;
+    margin-top: .5rem;
+    margin-left: .25rem;
+}
+.di img{
+    height: 7.15rem;
+    width: 100%; 
+}
+.da{
+   
+    height: 2.7rem;
+    background-color: #1159E5;
+    margin-left: .25rem;
+    margin-top: .55rem;
+    border-radius: .2rem;
+}
+.da p{
+    font-family: "微软雅黑";
+    font-size: .5rem;
+    color: #fff;
+    margin-left: .35rem;
+    margin-top: .5rem;
+}
+.da h6{
+    font-family: "微软雅黑";
+    font-size: .35rem;
+    margin-left: .35rem;
+    margin-top: .1rem;
+    color:#A4C0F5
+}
+.da h5{
+    font-family: "微软雅黑";
+    font-size: .35rem;
+    margin-left: .35rem;
+    margin-top: .1rem;
+    color:#A4C0F5
+}
+.mm{
+    height: 6rem;
+}
+.ma .ma1 img{
+   width: 4.25rem;
+   height: 4.25rem;
+   margin-left: .35rem;
+   margin-top: .4rem;
+}
+.ma p{
+    font-family: "微软雅黑";
+    font-size: .4rem;
+    margin-left: 1.5rem;
+    margin-top: .375rem;
+ 
+}
+.footer{
+    height: 2.95rem;
+    background: #4A4A4A;
+}
+.footer p{
+    font-size: .3rem;
+    color: white;
+    margin-left:.3rem;
+}
+.center{
+    height: 12.325rem;
+    position: relative;
+}
+.xuanf{
+    width: 60px;
+    height: 224px;
+    position: fixed;
+    right: 6px;bottom: 181px;
+}
+.xuanf .box1{
+    width: 60px;
+    height: 60px;
+    background: #075FE4;
+    margin-bottom: 2px;
+}
+.xuanf .box2{
+    width: 60px;
+    height: 36px;
+    background: #075FE4;
+}
+.xuanf .box2 img{
+    margin-left: 17px;
+    width: 26px;
+    height: 16px;
+    margin-top: 12px;
+}
+.xuanf .box1 span{
+    font-size: 25px;
+    margin-left: 18px;
+    line-height: 35px;
+    color: #fff;
+   
+}
+.xuanf .box1 h3{
+    font-size: 12px;
+    color: white;
+    margin-left: 5px;
+}
